@@ -1,4 +1,4 @@
-# my_portfolio-blog
+# Userblog
 My portfolio website and blog. 
 
 This is a basic django project for reference.
