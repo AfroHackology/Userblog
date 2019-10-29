@@ -1,5 +1,5 @@
 # Userblog
-My portfolio website and blog. 
 
-This is a basic django project for reference.
-It uses the Corey Schafer Django tutorial.
+Within this project is used the Django webframe work to build a Blog web application.
+
+This projects showcases the use of user authentication, autherization.
